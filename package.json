@@ -26,6 +26,9 @@
   },
   "author": "binaryify",
   "license": "MIT",
+  "engines": {
+        "node": "12.x"
+    },
   "dependencies": {
     "apicache": "^1.5.2",
     "express": "^4.17.1",
